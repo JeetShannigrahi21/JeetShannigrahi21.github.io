@@ -1,0 +1,9 @@
+<nav class="topnav container">
+  <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">About</a>
+  <a href="{{ '/education/' | relative_url }}" class="{% if page.url contains '/education/' %}active{% endif %}">Education</a>
+  <a href="{{ '/research/' | relative_url }}" class="{% if page.url contains '/research/' %}active{% endif %}">Research</a>
+  <a href="{{ '/publications/' | relative_url }}" class="{% if page.url contains '/publications/' %}active{% endif %}">Publications</a>
+  <a href="{{ '/talks/' | relative_url }}" class="{% if page.url contains '/talks/' %}active{% endif %}">Talks & Posters</a>
+  <a href="{{ '/awards/' | relative_url }}" class="{% if page.url contains '/awards/' %}active{% endif %}">Awards</a>
+  <a href="{{ '/teaching/' | relative_url }}" class="{% if page.url contains '/teaching/' %}active{% endif %}">Teaching</a>
+</nav>
