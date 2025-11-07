@@ -24,24 +24,13 @@ permalink: /
     <div class="contact-card">
       <h3>Contact</h3>
       <ul>
-        <li><strong>Email:</strong> <a href="mailto:jeetshan@student.ubc.ca">jeetshan@student.ubc.ca</a></li>
-        <li><strong>Alt:</strong> <a href="mailto:jeet.shannigrahi@gmail.com">jeet.shannigrahi@gmail.com</a></li>
-        <li><strong>ORCID:</strong> <a href="https://orcid.org/0009-0004-2474-2030" target="_blank" rel="noopener">0009-0004-2474-2030</a></li>
-        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jeet-shannigrahi-89052b216/" target="_blank" rel="noopener">Profile</a></li>
+        <li><strong>University Email:</strong> <a href="mailto:jeetshan@student.ubc.ca">jeetshan@student.ubc.ca</a></li>
+        <li><strong>Personal Email:</strong> <a href="mailto:jeet.shannigrahi@gmail.com">jeet.shannigrahi@gmail.com</a></li>
       </ul>
     </div>
     <div class="contact-card">
-      <h3>Research Focus</h3>
-      <ul>
-        <li>Finite-temperature quasiparticles &amp; electron&ndash;phonon coupling</li>
-        <li>Momentum Average methods across 1D&ndash;3D systems</li>
-        <li>Molecular dynamics for radiation damage at interfaces</li>
-        <li>Ultrafast and nonlinear optics in soft-matter media</li>
-      </ul>
-    </div>
-    <div class="contact-card">
-      <h3>Location</h3>
-      <p>Stewart Blusson Quantum Matter Institute<br>University of British Columbia<br>Vancouver, BC, Canada</p>
+      <h3>Mailing Address</h3>
+      <p>Quantum Matter Institute<br>The University of British Columbia<br> 2355 East Mall <br> Vancouver, BC <br> Canada V6T1Z4 </p>
     </div>
   </aside>
 </section>
