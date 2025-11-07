@@ -10,27 +10,13 @@ permalink: /
     <p>
       
       I am a second year Master's student in Physics at the University of British Columbia, Canada. My research interests lie in understanding strongly correlated many-body systems, where for example a charge carrier couples to its environment, and analysing the consequent emergent quasiparticles and collective excitations exhibited by such systems (polarons, magnons, polaritons). I am interested in comparing and adopting different analytical (MA) and numerical (DMRG) methodologies for tackling such systems, particularly working around certain constraints such as their their numerical intractability and steep scaling issues in higher dimensions. Beyond my familiarity with traditional condensed matter techniques, I am broadly interested in the possible application of quantum algorithms (such as Quantum Phase Estimation) to such problems
-      
-      My research focuses on understanding the temperature dependence of the effective mass and lifetime of the Holstein and SSH polaron through a variational method called Momentum Average (MA). At UBC, 
-      
-      Stewart Blusson Quantum Matter Institute,
-      working with Prof. Mona Berciu on the finite-temperature properties of the Holstein polaron. My research combines
-      analytical methods and large-scale computations to understand how quasiparticles evolve across one-, two-, and
-      three-dimensional systems.
+          </p>
+    <p>
+      At UBC, I am working with Prof. Mona Berciu at the Quantum Matter Institute on understanding the temperature dependence of the effective mass and lifetime of the Holstein and SSH polaron in cubic lattices. Prior to my graduate studies at UBC, I graduated from the Bachelor of Science (Honours) Physics program at Hindu College, University of Delhi as the class salutatorian. Throughout my career, I have prioritised (In pursuit) of international collaboration, I have been a visiting research student at different places at different points in my career: as a Mitacs Globalink Intern (year 2023) at the University of Windsor in Prof. T.J. Hammond's ACME lab; a NIUS scholar (19.1 camp) at the Tata Institute of Fundamental Research, Mumbai in 2022; a visiting research assistant at Aalto University, Finland in 2024; and an upcoming visiting assistant in research at Yale University, USA in early 2026.
+     
     </p>
     <p>
-      Beyond my thesis, I have explored condensed matter and materials physics through international research experiences.
-      Recent projects span momentum-average approaches for electron&ndash;phonon coupling, molecular dynamics simulations of
-      radiation damage at solid&ndash;liquid interfaces (Aalto University), and nonlinear optics studies of thermal lensing in
-      liquids (University of Windsor). These collaborative efforts have led to conference talks, posters, and a peer-reviewed
-      publication on nanoporous magnesium ferrite sensors.
-    </p>
-    <p>
-      I care deeply about building reproducible computational workflows and communicating science in accessible ways. I am
-      always happy to connect about condensed matter theory, high-performance computing, or opportunities for outreach and
-      teaching—feel free to explore my <a href="{{ '/research/' | relative_url }}">research</a>,
-      <a href="{{ '/education/' | relative_url }}">education</a>, and <a href="{{ '/talks/' | relative_url }}">speaking</a>
-      pages for more.
+      Beyond research and academics, I love reading graphic novels, engaging in friendly (but contentious) discussions on international cinema, playing a fiercely competitive game of Monopoly, biking around Metro Vancouver and trying out new activities with my partner. 
     </p>
   </article>
   <aside class="bio-sidebar">
