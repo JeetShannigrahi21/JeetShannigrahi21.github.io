@@ -30,7 +30,7 @@ permalink: /
     </div>
     <div class="contact-card">
       <h3>Mailing Address</h3>
-      <p>Quantum Matter Institute<br>The University of British Columbia<br> 2355 East Mall <br> Vancouver, BC <br> Canada V6T1Z4 </p>
+      <p>Quantum Matter Institute<br>The University of British Columbia<br> 2355 East Mall <br> Vancouver, BC <br> Canada V6T 1Z4 </p>
     </div>
   </aside>
 </section>
