@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: About Me
 permalink: /
 ---
 
@@ -9,7 +9,7 @@ permalink: /
     <h2>About</h2>
     <p>
       
-      I am a second year Master's student in Physics at the University of British Columbia, Canada. My research interests lie in understanding strongly correlated many-body systems, where for example a charge carrier couples to its environment, and analysing the consequent emergent quasiparticles and collective excitations exhibited by such systems (polarons, magnons, polaritons). I am interested in comparing and adopting different analytical (MA) and numerical (DMRG) methodologies for tackling such systems, particularly working around certain constraints such as their their numerical intractability and steep scaling issues in higher dimensions. Beyond my familiarity with traditional condensed matter techniques, I am broadly interested in the possible application of quantum algorithms (such as Quantum Phase Estimation) to such problems
+      I am a second year Master's student in Physics at the University of British Columbia, Canada. My research interests lie in understanding strongly correlated many-body systems, where for example a charge carrier couples to its environment, and analysing the consequent emergent quasiparticles and collective excitations exhibited by such systems (polarons, magnons, polaritons). I am interested in comparing and adopting different analytical (MA) and numerical (DMRG) methodologies for tackling such systems, particularly working around certain constraints such as their their numerical intractability and steep scaling issues in higher dimensions. Beyond my familiarity with traditional condensed matter techniques, I am broadly interested in the possible application of quantum algorithms (such as Quantum Phase Estimation) to such problems.
           </p>
     <p>
       At UBC, I am working with Prof. Mona Berciu at the Quantum Matter Institute on understanding the temperature dependence of the effective mass and lifetime of the Holstein and SSH polaron in cubic lattices. Prior to my graduate studies at UBC, I graduated from the Bachelor of Science (Honours) Physics program at Hindu College, University of Delhi as the class salutatorian. Throughout my career, I have prioritised (In pursuit) of international collaboration, I have been a visiting research student at different places at different points in my career: as a Mitacs Globalink Intern (year 2023) at the University of Windsor in Prof. T.J. Hammond's ACME lab; a NIUS scholar (19.1 camp) at the Tata Institute of Fundamental Research, Mumbai in 2022; a visiting research assistant at Aalto University, Finland in 2024; and an upcoming visiting assistant in research at Yale University, USA in early 2026.
@@ -24,8 +24,7 @@ permalink: /
     <div class="contact-card">
       <h3>Contact</h3>
       <ul>
-        <li><strong>University Email:</strong> <a href="mailto:jeetshan@student.ubc.ca">jeetshan@student.ubc.ca</a></li>
-        <li><strong>Personal Email:</strong> <a href="mailto:jeet.shannigrahi@gmail.com">jeet.shannigrahi@gmail.com</a></li>
+        </strong> <a href="mailto:j.shannigrahi@ubc.ca">j.shannigrahi@ubc.ca</a></li>
       </ul>
     </div>
     <div class="contact-card">
