@@ -6,7 +6,7 @@ permalink: /
 
 <section id="about" class="landing-grid">
   <article class="bio">
-    <h2>About</h2>
+    <h2>About Me</h2>
     <p>
       
       I am a second year Master's student in Physics at the University of British Columbia, Canada. My research interests lie in understanding strongly correlated many-body systems, where for example a charge carrier couples to its environment, and analysing the consequent emergent quasiparticles and collective excitations exhibited by such systems (polarons, magnons, polaritons). I am interested in comparing and adopting different analytical (MA) and numerical (DMRG) methodologies for tackling such systems, particularly working around certain constraints such as their their numerical intractability and steep scaling issues in higher dimensions. Beyond my familiarity with traditional condensed matter techniques, I am broadly interested in the possible application of quantum algorithms (such as Quantum Phase Estimation) to such problems.
@@ -22,11 +22,10 @@ permalink: /
   <aside class="bio-sidebar">
     <img src="{{ '/assets/images/profile.jpg?v=3' | relative_url }}" alt="Jeet Shannigrahi" class="about-photo">
     <div class="contact-card">
-      <h3>Contact</h3>
-      <ul>
-        </strong> <a href="mailto:j.shannigrahi@ubc.ca">j.shannigrahi@ubc.ca</a></li>
-      </ul>
-    </div>
+     <h3>Contact</h3>
+        <ul>
+          <li><a href="mailto:j.shannigrahi@ubc.ca">j.shannigrahi@ubc.ca</a></li>
+        </ul>
     <div class="contact-card">
       <h3>Mailing Address</h3>
       <p>Quantum Matter Institute<br>The University of British Columbia<br> 2355 East Mall <br> Vancouver, BC <br> Canada V6T 1Z4 </p>
