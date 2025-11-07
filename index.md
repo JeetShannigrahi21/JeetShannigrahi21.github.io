@@ -8,7 +8,12 @@ permalink: /
   <article class="bio">
     <h2>About</h2>
     <p>
-      I am a graduate student in Physics at the University of British Columbia’s Stewart Blusson Quantum Matter Institute,
+      
+      I am a second year Master's student in Physics at the University of British Columbia, Canada. My research interests lie in understanding strongly correlated many-body systems, where for example a charge carrier couples to its environment, and analysing the consequent emergent quasiparticles and collective excitations exhibited by such systems (polarons, magnons, polaritons). I am interested in comparing and adopting different analytical (MA) and numerical (DMRG) methodologies for tackling such systems, particularly working around certain constraints such as their their numerical intractability and steep scaling issues in higher dimensions. Beyond my familiarity with traditional condensed matter techniques, I am broadly interested in the possible application of quantum algorithms (such as Quantum Phase Estimation) to such problems
+      
+      My research focuses on understanding the temperature dependence of the effective mass and lifetime of the Holstein and SSH polaron through a variational method called Momentum Average (MA). At UBC, 
+      
+      Stewart Blusson Quantum Matter Institute,
       working with Prof. Mona Berciu on the finite-temperature properties of the Holstein polaron. My research combines
       analytical methods and large-scale computations to understand how quasiparticles evolve across one-, two-, and
       three-dimensional systems.
