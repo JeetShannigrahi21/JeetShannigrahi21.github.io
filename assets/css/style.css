@@ -39,7 +39,7 @@ a{color:#0369a1}a:hover{color:var(--accent)}
 .contact-card h3{margin:0 0 .5rem;font-size:1.05rem}
 .contact-card ul{
   list-style:none;
-  margin:0 0 0.9rem;  /* bottom margin adds space before "Mailing Address" */
+  margin:0 0 1.5rem;  /* bottom margin adds space before "Mailing Address" */
   padding:0;
   display:grid;
   gap:.45rem;
@@ -51,8 +51,8 @@ a{color:#0369a1}a:hover{color:var(--accent)}
 .contact-card a:hover{color:#0284c7}
 .quick-links {
   display: flex;
-  flex-direction: row;   /* make it explicit it's a row */
-  flex-wrap: wrap;       /* allows wrapping on smaller screens */
+  flex-direction: row;   
+  flex-wrap: wrap;     
   gap: .65rem;
   margin-top: 1.75rem;
 }
