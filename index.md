@@ -43,18 +43,7 @@ permalink: /
       </p>
     </div>
 
-    <!-- Explore section stays INSIDE the aside -->
-    <section class="section highlight-section">
-      <h2>Explore the site</h2>
-      <div class="quick-links">
-        <a href="{{ '/education/' | relative_url }}">Education</a>
-        <a href="{{ '/research/' | relative_url }}">Research</a>
-        <a href="{{ '/publications/' | relative_url }}">Publications</a>
-        <a href="{{ '/talks/' | relative_url }}">Talks &amp; Posters</a>
-        <a href="{{ '/awards/' | relative_url }}">Awards</a>
-        <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
-      </div>
-    </section>
+
   </aside>
 </section>
 
