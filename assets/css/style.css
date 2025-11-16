@@ -26,7 +26,9 @@ tbody td{padding:.55rem .6rem;border-top:1px solid var(--line)}
 a{color:#0369a1}a:hover{color:var(--accent)}
 .site-footer{border-top:1px solid var(--line);margin-top:2.5rem;background:#f1f5f9;padding:1rem 0}
 .footer-grid{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap}
-.counter img{vertical-align:middle}
+.counter{display:flex;align-items:center;gap:.35rem;font-size:.95rem;color:var(--muted)}
+.counter-label{font-weight:600;text-transform:uppercase;letter-spacing:.04em;font-size:.8rem;color:var(--muted)}
+.counter-value{font-weight:700;color:var(--text);font-variant-numeric:tabular-nums;min-width:3ch}
 .landing-grid{display:grid;grid-template-columns:minmax(0,2.5fr) minmax(0,1.3fr);gap:2.5rem;align-items:start;margin:3rem 0 2rem}
 .landing-grid h2{font-size:1.55rem;margin-top:0}
 .bio p{margin:.65rem 0;color:var(--muted);font-size:1.02rem}
@@ -35,18 +37,21 @@ a{color:#0369a1}a:hover{color:var(--accent)}
 .bio-sidebar{display:flex;flex-direction:column;gap:1.25rem}
 .bio-sidebar>*{width:100%}
 .about-photo{width:100%;max-width:320px;border-radius:18px;object-fit:cover;box-shadow:0 16px 35px rgba(15,23,42,.18);border:1px solid rgba(15,23,42,.08)}
-.contact-card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.1rem 1.25rem;box-shadow:0 12px 30px rgba(15,23,42,.08)}
-.contact-card h3{margin:0 0 .5rem;font-size:1.05rem}
+.contact-card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.1rem 1.25rem;box-shadow:0 12px 30px rgba(15,23,42,.08);display:flex;flex-direction:column;gap:.9rem}
+.contact-section{display:flex;flex-direction:column;gap:.25rem}
+.contact-section+.contact-section{padding-top:.45rem;border-top:1px solid rgba(15,23,42,.08)}
+.contact-card h3{margin:0;font-size:1.05rem}
 .contact-card ul{
   list-style:none;
-  margin:0 0 1.5rem;  /* bottom margin adds space before "Mailing Address" */
+  margin:0;
   padding:0;
   display:grid;
-  gap:.45rem;
+  gap:.35rem;
 }
 .contact-card li{font-size:.95rem;color:var(--muted)}
 .contact-card li strong{color:var(--text);font-weight:600}
-.contact-card p{margin:0;color:var(--muted);line-height:1.55}
+.contact-card p{margin:.1rem 0 0;color:var(--muted);line-height:1.55}
+.mailing-address{margin-top:.15rem}
 .contact-card a{text-decoration:none;color:var(--accent);font-weight:600}
 .contact-card a:hover{color:#0284c7}
 .quick-links {

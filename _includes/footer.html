@@ -1,8 +1,9 @@
 <footer class="site-footer">
   <div class="container footer-grid">
     <div>&copy; <span id="year"></span> Jeet Shannigrahi</div>
-    <div class="counter">
-      <img alt="Visitor count" src="https://hitscounter.dev/count/tag.svg?url={{ site.url | url_encode }}&title=visits">
+    <div class="counter" aria-live="polite">
+      <span class="counter-label">Visitor Count:</span>
+      <span id="visitor-count" class="counter-value">—</span>
     </div>
   </div>
 </footer>
