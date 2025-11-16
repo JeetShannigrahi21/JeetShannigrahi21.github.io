@@ -43,13 +43,46 @@ a{color:#0369a1}a:hover{color:var(--accent)}
 .contact-card p{margin:0;color:var(--muted);line-height:1.55}
 .contact-card a{text-decoration:none;color:var(--accent);font-weight:600}
 .contact-card a:hover{color:#0284c7}
-.quick-links{display:flex;flex-wrap:wrap;gap:.65rem;margin-top:1.75rem}
-.quick-links a{display:inline-flex;align-items:center;gap:.4rem;padding:.5rem 1rem;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--text);text-decoration:none;font-weight:600;box-shadow:0 8px 20px rgba(15,23,42,.08);transition:.2s ease-in-out}
-.quick-links a:hover{background:var(--accent);color:#fff;border-color:var(--accent);box-shadow:0 12px 24px rgba(14,165,233,.35)}
+.quick-links {
+  display: flex;
+  flex-direction: row;   /* make it explicit it's a row */
+  flex-wrap: wrap;       /* allows wrapping on smaller screens */
+  gap: .65rem;
+  margin-top: 1.75rem;
+}
+
+.quick-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: .4rem;
+  padding: .5rem 1rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 600;
+  box-shadow: 0 8px 20px rgba(15,23,42,.08);
+  transition: .2s ease-in-out;
+}
+
+.quick-links a:hover {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+  box-shadow: 0 12px 24px rgba(14,165,233,.35);
+}
 .highlight-section{background:linear-gradient(180deg,#f8fafc,#eef2ff);border:1px solid rgba(148,163,184,.3);border-radius:20px;padding:2rem 2.25rem;margin-top:1rem;box-shadow:0 18px 40px rgba(15,23,42,.12)}
 .highlight-section h2{margin-top:0;margin-bottom:1rem}
 @media (max-width:1024px){.hero{grid-template-columns:1fr 1fr}.tagline{max-width:28rem}}
 @media (max-width:900px){.hero{grid-template-columns:1fr;gap:1.75rem;text-align:center}.hero-text{align-items:center}.hero-media{justify-content:center}.tagline{max-width:36rem}.links{justify-content:center}}
 @media (max-width:900px){.landing-grid{grid-template-columns:1fr;gap:2rem;margin:2.5rem 0 1.5rem}.bio-sidebar{align-items:center}.about-photo{max-width:360px}}
 @media (max-width:640px){.profile-pic{max-width:220px;border-width:4px}.quick-links{justify-content:center;text-align:center}.quick-links a{font-size:.95rem}.highlight-section{padding:1.65rem 1.5rem}}
+@media (max-width:640px){
+  .profile-pic{max-width:220px;border-width:4px}
+  .quick-links{justify-content:center;text-align:center}
+  .quick-links a{font-size:.95rem}
+  .highlight-section{padding:1.65rem 1.5rem}
+}
 .topnav a.active{background:rgba(255,255,255,0.25);box-shadow:0 0 0 2px rgba(255,255,255,0.35) inset}
