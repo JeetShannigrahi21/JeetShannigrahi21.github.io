@@ -28,19 +28,23 @@ permalink: /
 
     <!-- ONE contact-card wrapping both contact + mailing address -->
     <div class="contact-card">
-      <h3>Contact</h3>
-      <ul>
-        <li><a href="mailto:j.shannigrahi@ubc.ca">j.shannigrahi@ubc.ca</a></li>
-      </ul>
+      <div class="contact-section">
+        <h3>Contact</h3>
+        <ul>
+          <li><a href="mailto:j.shannigrahi@ubc.ca">j.shannigrahi@ubc.ca</a></li>
+        </ul>
+      </div>
 
-      <h3>Mailing Address</h3>
-      <p>
-        Quantum Matter Institute<br>
-        The University of British Columbia<br>
-        2355 East Mall<br>
-        Vancouver, BC<br>
-        Canada V6T 1Z4
-      </p>
+      <div class="contact-section">
+        <h3>Mailing Address</h3>
+        <p class="mailing-address">
+          Quantum Matter Institute<br>
+          The University of British Columbia<br>
+          2355 East Mall<br>
+          Vancouver, BC<br>
+          Canada V6T 1Z4
+        </p>
+      </div>
     </div>
 
 
