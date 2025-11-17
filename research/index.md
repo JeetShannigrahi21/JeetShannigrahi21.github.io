@@ -24,7 +24,6 @@ title: Research
       <span class="date">Jun 2024 - Sep 2024</span>
     </div>
     <p class="meta">Department of Applied Physics, Aalto University, Finland · Supervisor: Prof. Andrea Sand</p>
-</p>
     <ul>
       <li> Description: Explored damage at a solid–liquid interface using molecular dynamical (MD) simulations.</li>
       <li> Role: Developed and managed a workflow simulating millions of atoms on Aalto's cluster computer - Triton. Contributed towards a Machine Learning Inter‑atomic Potential (MLIP) benchmarked against DFT.</li>
