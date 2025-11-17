@@ -23,7 +23,7 @@ title: Education
           </div>
       <div class="edu-meta">
         <div class="edu-dates"><em>Sep 2024 &ndash; Nov 2026 (Expected)</em></div>
-        <div class="edu-grade">Grade 88.2% </div>
+        <div class="edu-grade">Grade 88.2% (Ongoing) </div>
       </div>
     </div>
 
@@ -44,7 +44,7 @@ title: Education
           <div class="edu-meta">
             <div class="edu-dates"><em>Jul 2021 &ndash; Jul 2024</em></div>
             <div class="edu-grade">
-              Grade 92.16% (2<sup>nd</sup>/ cohort of 176)
+              Grade 92.16% (2<sup>nd</sup> in a cohort of 176)
             </div>
           </div>
         </div>
