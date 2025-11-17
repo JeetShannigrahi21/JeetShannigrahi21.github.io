@@ -19,6 +19,9 @@ html,body{margin:0;padding:0;font-family:Inter,ui-sans-serif,system-ui,-apple-sy
 .section h2{font-size:1.4rem;margin-bottom:.5rem;padding-bottom:.25rem;border-bottom:1px solid var(--line)}
 .items{margin:0;padding-left:1.2rem}.items li{margin:.3rem 0}
 .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:1rem;margin:.8rem 0 0;box-shadow:0 6px 18px rgba(2,6,23,.04)}
+.card-header{display:flex;justify-content:space-between;align-items:flex-start;gap:.9rem;flex-wrap:wrap}
+.card-header h3{margin:0;font-size:1.08rem}
+.card-header .date{color:var(--muted);font-style:italic;font-weight:600;white-space:nowrap}
 .table-wrap{overflow-x:auto}
 table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:8px}
 thead th{background:#f1f5f9;text-align:left;padding:.6rem;font-weight:600}
