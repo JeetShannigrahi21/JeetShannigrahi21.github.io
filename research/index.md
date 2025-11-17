@@ -6,6 +6,11 @@ title: Research
 <section id="research" class="section">
   <h2>Research Experience</h2>
   <article class="card">
+    <div class="card-header">
+      <h3>Master’s Thesis — Graduate Research Assistant</h3>
+      <span class="date">Sep 2024 - Nov 2026</span>
+    </div>
+    <p class="meta">Department of Physics &amp; Astronomy, UBC, Canada · Supervisor: Prof. Mona Berciu</p>
     <h3>Master’s Thesis — Graduate Research Assistant</h3>
     <p class="meta">Department of Physics &amp; Astronomy, UBC, Canada · Sep 2024 - Nov 2026 · Supervisor: Prof. Mona Berciu</p>
     <ul>
@@ -16,6 +21,11 @@ title: Research
   </article>
 
   <article class="card">
+    <div class="card-header">
+      <h3>AScI International Summer Research Assistant 2024</h3>
+      <span class="date">Jun 2024 - Sep 2024</span>
+    </div>
+    <p class="meta">Applied Physics, Aalto University, Finland · Supervisor: Dr. Andrea Sand (NUME Group)</p>
     <h3>AScI International Summer Research Assistant 2024</h3>
     <p class="meta">Applied Physics, Aalto University, Finland · Jun 2024 - Sep 2024 · Supervisor: Dr. Andrea Sand (NUME Group)</p>
     <ul>
@@ -26,6 +36,11 @@ title: Research
   </article>
 
   <article class="card">
+    <div class="card-header">
+      <h3>Mitacs Globalink Research Internship 2023</h3>
+      <span class="date">Jun 2023 - Aug 2023</span>
+    </div>
+    <p class="meta">Physics, University of Windsor, Canada · Supervisor: Dr. T. J. Hammond (ACME Group)</p>
     <h3>Mitacs Globalink Research Internship 2023</h3>
     <p class="meta">Physics, University of Windsor, Canada · Jun 2023 - Aug 2023 · Supervisor: Dr. T. J. Hammond (ACME Group)</p>
     <ul>
@@ -36,6 +51,11 @@ title: Research
   </article>
 
   <article class="card">
+    <div class="card-header">
+      <h3>Undergraduate Research Assistant</h3>
+      <span class="date">Sep 2022 - Mar 2024</span>
+    </div>
+    <p class="meta">Physics, Hindu College, University of Delhi, India · Supervisor: Prof. Vivek Verma</p>
     <h3>Undergraduate Research Assistant</h3>
     <p class="meta">Physics, Hindu College, University of Delhi, India · Sep 2022 - Mar 2024 · Supervisor: Prof. Vivek Verma</p>
     <ul>
