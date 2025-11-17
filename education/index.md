@@ -16,8 +16,8 @@ title: Education
             </div>
             <div class="edu-detail">
               <span class="edu-label">Thesis:</span>
-              Investigating the finite-temperature properties of the Holstein and the SSH polaron in 1D, 2D and 3D.
-              <span class="edu-label">Supervisor:</span>
+              Investigating the finite-temperature properties of the Holstein and the SSH polaron in 1D, 2D and 3D |
+              <span class="edu-label">Supervised by:</span>
               Prof. Mona Berciu
             </div>
           </div>
@@ -36,15 +36,15 @@ title: Education
             </div>
             <div class="edu-detail">
               <span class="edu-label">Undergraduate Dissertation:</span>
-              An exploration of lattice dynamics for 1D and 2D lattice systems in real space.
-              <span class="edu-label">Supervisor:</span>
+              An exploration of lattice dynamics for 1D and 2D lattice systems in real space |
+              <span class="edu-label">Supervised by:</span>
               Prof. Pragati Ashdhir
             </div>
           </div>
           <div class="edu-meta">
             <div class="edu-dates"><em>Jul 2021 &ndash; Jul 2024</em></div>
             <div class="edu-grade">
-              Grade 92.16% (2<sup>nd</sup> / cohort of 176)
+              Grade 92.16% (2<sup>nd</sup>/ cohort of 176)
             </div>
           </div>
         </div>
@@ -60,7 +60,7 @@ title: Education
       <div class="edu-meta">
         <div class="edu-dates"><em>Apr 2009 &ndash; Jul 2021</em></div>
         <div class="edu-grade">
-          Score 98.0% (School Valedictorian)
+          Grade 98.0% (School Valedictorian)
         </div>
       </div>
     </div>
