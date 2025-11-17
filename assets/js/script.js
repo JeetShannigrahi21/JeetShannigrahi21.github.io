@@ -8,8 +8,10 @@ const y=document.getElementById('year'); if (y) y.textContent=new Date().getFull
 
 const visitorEl=document.getElementById('visitor-count');
 if(visitorEl){
-  const endpoint='https://api.countapi.xyz/hit/jeetshannigrahi21.github.io/visits';
-  fetch(endpoint)
+  const namespace=encodeURIComponent('jeetshannigrahi21.github.io');
+  const key=encodeURIComponent('visits');
+  const endpoint=`https://api.countapi.dev/hit/${namespace}/${key}`;
+  fetch(endpoint,{cache:'no-store'})
     .then(r=>r.ok?r.json():Promise.reject())
     .then(data=>{
       if(typeof data.value==='number'){

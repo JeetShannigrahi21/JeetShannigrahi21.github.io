@@ -5,16 +5,60 @@ title: Education
 
 <section id="education" class="section">
   <h2>Education</h2>
-  <ul class="items">
-    <li>
-      <strong>Master of Science in Physics</strong>, University of British Columbia, Canada (Sep 2024 &ndash; Nov 2026, expected). Grade: 87.1/100 (31 credits).<br />
-      Thesis: <em>Investigating the finite-temperature properties of the Holstein polaron</em> — Supervisor: Prof. Mona Berciu.
-    </li>
-    <li>
-      <strong>Bachelor of Science (Honours) in Physics</strong>, Hindu College, University of Delhi, India (Jul 2021 &ndash; Jul 2024). CGPA 9.216/10.0 (Salutatorian, 2nd/176).
-    </li>
-    <li>
-      <strong>Indian School Certificate (Science)</strong>, St. Xavier’s Collegiate School, Kolkata, India (Apr 2009 &ndash; Jul 2021). Score 98.0% (Valedictorian).
-    </li>
-  </ul>
+
+  <div class="edu-list">
+    <!-- MSc -->
+    <div class="edu-item">
+      <div class="edu-main">
+        <h3>Master of Science in Physics</h3>
+        <div class="edu-inst">
+          The University of British Columbia, Vancouver, Canada
+        </div>
+        <div class="edu-detail">
+          <span class="edu-label">Thesis:</span>
+          Investigating the finite-temperature properties of the Holstein and the SSH polaron in 1D, 2D and 3D.
+        </div>
+        <div class="edu-detail">
+          <span class="edu-label">Supervisor:</span>
+          Prof. Mona Berciu
+        </div>
+      </div>
+      <div class="edu-meta">
+        <div class="edu-dates"><em>Sep 2024 &ndash; Nov 2026 (Expected)</em></div>
+        <div class="edu-grade">Grade 88.2/100 (31 credits)</div>
+      </div>
+    </div>
+
+    <!-- BSc -->
+    <div class="edu-item">
+      <div class="edu-main">
+        <h3>Bachelor of Science (Honours) in Physics with Minor in Mathematics</h3>
+        <div class="edu-inst">
+          Hindu College, The University of Delhi, Delhi, India
+        </div>
+      </div>
+      <div class="edu-meta">
+        <div class="edu-dates"><em>Jul 2021 &ndash; Jul 2024</em></div>
+        <div class="edu-grade">
+          GPA 9.216/10.0 (2<sup>nd</sup> / 176)
+        </div>
+      </div>
+    </div>
+
+    <!-- School -->
+    <div class="edu-item">
+      <div class="edu-main">
+        <h3>Indian School Certificate (Science)</h3>
+        <div class="edu-inst">
+          St. Xavier&rsquo;s Collegiate School, Kolkata, India
+        </div>
+      </div>
+      <div class="edu-meta">
+        <div class="edu-dates"><em>Apr 2009 &ndash; Jul 2021</em></div>
+        <div class="edu-grade">
+          Score 98.0% (Valedictorian)
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
