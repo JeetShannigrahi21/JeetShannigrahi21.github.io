@@ -17,8 +17,7 @@ title: Education
             <div class="edu-detail">
               <span class="edu-label">Thesis:</span>
               Investigating the finite-temperature properties of the Holstein and the SSH polaron in 1D, 2D and 3D |
-              <span class="edu-label">Supervised by:</span>
-              Prof. Mona Berciu
+              Supervised by Prof. Mona Berciu
             </div>
           </div>
       <div class="edu-meta">
@@ -37,8 +36,7 @@ title: Education
             <div class="edu-detail">
               <span class="edu-label">Undergraduate Dissertation:</span>
               An exploration of lattice dynamics for 1D and 2D lattice systems in real space |
-              <span class="edu-label">Supervised by:</span>
-              Prof. Pragati Ashdhir
+              Supervised by Prof. Pragati Ashdhir
             </div>
           </div>
           <div class="edu-meta">
