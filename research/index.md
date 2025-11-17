@@ -10,13 +10,11 @@ title: Research
       <h3>Master’s Thesis — Graduate Research Assistant</h3>
       <span class="date">Sep 2024 - Nov 2026</span>
     </div>
-    <p class="meta">Department of Physics &amp; Astronomy, UBC, Canada · Supervisor: Prof. Mona Berciu</p>
-    <h3>Master’s Thesis — Graduate Research Assistant</h3>
-    <p class="meta">Department of Physics &amp; Astronomy, UBC, Canada · Sep 2024 - Nov 2026 · Supervisor: Prof. Mona Berciu</p>
+    <p class="meta"> The Quantum Matter Institute, The University of British Columbia, Canada · Supervisor: Prof. Mona Berciu</p>
     <ul>
-      <li>Studying the evolution of the effective mass and lifetime of the Holstein polaron with temperature.</li>
-      <li>Extending the Momentum Average (MA) method analytically across 1D&ndash;3D and validating against 1D numerics.</li>
-      <li>Outcomes: Contributed talk at CAP Congress (Jun 2025); poster at the Max Planck&ndash;UBC&ndash;UTokyo Centre Summer School (May 2025).</li>
+      <li> Description: Studying the temperature dependence of the effective mass and lifetime of the Holstein and SSH polaron in cubic lattices across different dimensions through a semi analytic variational method called Momentum Average (MA). .</li>
+      <li>Role: Analytically extending the MA method to capture finite temperature behaviour  and generalizing it across different dimensions (1D, 2D and 3D). Validating it against existing numerical data (ED-FTLM, DMFT and DMRG).</li>
+      <li>Outcomes: Contributed talk at CAP Congress (Jun 2025); poster at the Max Planck&ndash;UBC&ndash;UTokyo Centre Summer School (May 2025) and the First International Quantum Horizons Symposium (Aug 2025).</li>
     </ul>
   </article>
 
@@ -25,12 +23,11 @@ title: Research
       <h3>AScI International Summer Research Assistant 2024</h3>
       <span class="date">Jun 2024 - Sep 2024</span>
     </div>
-    <p class="meta">Applied Physics, Aalto University, Finland · Supervisor: Dr. Andrea Sand (NUME Group)</p>
-    <h3>AScI International Summer Research Assistant 2024</h3>
-    <p class="meta">Applied Physics, Aalto University, Finland · Jun 2024 - Sep 2024 · Supervisor: Dr. Andrea Sand (NUME Group)</p>
+    <p class="meta">Department of Applied Physics, Aalto University, Finland · Supervisor: Prof. Andrea Sand</p>
+</p>
     <ul>
-      <li>Explored radiation damage at a solid&ndash;liquid interface using molecular dynamics.</li>
-      <li>Contributed to an ML interatomic potential benchmarked against DFT; managed large-scale workflows on Triton HPC (&gt; 10,000 cores).</li>
+      <li> Description: Explored damage at a solid–liquid interface using molecular dynamical (MD) simulations.</li>
+      <li> Role: Developed and managed a workflow simulating millions of atoms on Aalto's cluster computer - Triton. Contributed towards a Machine Learning Inter‑atomic Potential (MLIP) benchmarked against DFT.</li>
       <li>Outcomes: Contributed talk at APS Global Physics Summit 2025; poster at AScI 2024 Conclave.</li>
     </ul>
   </article>
@@ -40,9 +37,7 @@ title: Research
       <h3>Mitacs Globalink Research Internship 2023</h3>
       <span class="date">Jun 2023 - Aug 2023</span>
     </div>
-    <p class="meta">Physics, University of Windsor, Canada · Supervisor: Dr. T. J. Hammond (ACME Group)</p>
-    <h3>Mitacs Globalink Research Internship 2023</h3>
-    <p class="meta">Physics, University of Windsor, Canada · Jun 2023 - Aug 2023 · Supervisor: Dr. T. J. Hammond (ACME Group)</p>
+    <p class="meta">Department of Physics, University of Windsor, Canada · Supervisor: Dr. T. J. Hammond (ACME Group)</p>
     <ul>
       <li>Studied thermal lensing in alkanols; investigated balancing Kerr lensing with thermal defocusing for liquid filamentation.</li>
       <li>Implemented finite-difference models and beam propagation (Forward Maxwell + Fourier Split-Step).</li>
@@ -55,10 +50,7 @@ title: Research
       <h3>Undergraduate Research Assistant</h3>
       <span class="date">Sep 2022 - Mar 2024</span>
     </div>
-    <p class="meta">Physics, Hindu College, University of Delhi, India · Supervisor: Prof. Vivek Verma</p>
-    <h3>Undergraduate Research Assistant</h3>
-    <p class="meta">Physics, Hindu College, University of Delhi, India · Sep 2022 - Mar 2024 · Supervisor: Prof. Vivek Verma</p>
-    <ul>
+    <p class="meta">Physics, Hindu College, University of Delhi, India · Supervisor: Prof. Vivek Verma</p>  <ul>
       <li>Investigated nanoporous magnesium ferrite for sensing applications using experimental and computational probes.</li>
       <li>Optimized sintering, characterized porosity via buoyancy, SEM, XRD, and VSM; performed density-functional calculations.</li>
       <li>Outcomes: Manuscript published (Apr 2024); contributed talk at APS March Meeting 2023.</li>
