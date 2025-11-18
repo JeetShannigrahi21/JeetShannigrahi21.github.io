@@ -27,20 +27,19 @@ permalink: /
     <p>
       In pursuit of seeking out varied research problems and gaining exposure to different working environments, I have been a visiting research student in several different groups. The research problems I have been a part of, stretch from using molecular dynamics to better understand radiation damage to light-matter interaction in a laser spectroscopy laboratory. These have been spread across three different continents: as a
   <a href="https://nius.hbcse.tifr.res.in/" target="_blank" rel="noopener noreferrer">
-    NIUS scholar (19.1 camp)
+    NIUS scholar 
   </a>
-  at the Tata Institute of Fundamental Research, Mumbai, in 2022;
+  (19.1 camp) at the Tata Institute of Fundamental Research, Mumbai, in 2022;
   a
   <a href="https://www.mitacs.ca/our-programs/globalink-research-internship-students/" target="_blank" rel="noopener noreferrer">
-    Mitacs Globalink Intern (year 2023)
+    Mitacs Globalink Intern 
   </a>
-  at the University of Windsor, Canada;
+  (year 2023) at the University of Windsor, Canada;
   a
   <a href="https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme" target="_blank" rel="noopener noreferrer">
     visiting research assistant
   </a>
   at Aalto University, Finland in 2024; and an upcoming visiting assistant in research at
-  <a href="https://www.yale.edu/" target="_blank" rel="noopener noreferrer">
     Yale University, USA
   </a>
   in early 2026.
