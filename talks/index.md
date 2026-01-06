@@ -4,8 +4,8 @@ title: Talks & Posters
 ---
 
 <section id="talks" class="section">
-  <h2>Talks & Posters</h2>
-  <h3>Contributed Talks</h3>
+  <h2>Selected Talks & Posters</h2>
+  <h3>Talks</h3>
   <ul class="items">
     <li>Theory Canada 17 &amp; CAP Congress 2025 — <em>Properties of Holstein polarons at finite temperature</em> (Proceedings submission), Jun 2025.</li>
     <li>APS Global Physics Summit 2025 — <em>Radiation Damage at a Solid–Liquid Interface due to Neutron Flux using MD</em> (Proceedings abstract), Mar 2025. <a href="https://summit.aps.org/events/VIR-K03/3" target="_blank" rel="noopener">Event</a></li>
@@ -14,7 +14,7 @@ title: Talks & Posters
     <li>APS March Meeting 2023 — <em>A Computational Illustration of Born–von Karman PBC in 1D &amp; 2D Dynamics</em>, Mar 2023. <a href="https://meetings.aps.org/Meeting/MAR23/Session/TT02.6" target="_blank" rel="noopener">Session</a></li>
   </ul>
 
-  <h3>Contributed Posters / Proceedings</h3>
+  <h3>Posters</h3>
   <ul class="items">
     <li>MPI&ndash;UBC&ndash;UTokyo Centre for Quantum Materials Summer School 2025 — <em>Preliminary results on temperature-dependent properties of the single Holstein polaron</em>, May 2025.</li>
     <li>AScI Summer Research Conclave 2024 — <em>Radiation damage at a solid&ndash;liquid interface using Molecular Dynamics</em>, Aug 2024.</li>
