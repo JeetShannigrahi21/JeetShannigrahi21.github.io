@@ -3,6 +3,24 @@ layout: default
 title: Talks & Posters
 ---
 
+.cv-item-head{
+  display: flex;
+  align-items: baseline;
+  width: 100%;
+}
+
+.cv-item-venue{
+  flex: 1 1 auto;     /* take remaining space */
+  min-width: 0;       /* allows wrapping instead of pushing date */
+}
+
+.cv-item-date{
+  flex: 0 0 auto;
+  margin-left: auto;  /* pushes date to the rightmost side */
+  white-space: nowrap;
+  text-align: right;
+}
+
 <section id="talks" class="section">
   <h2>Selected Talks &amp; Posters</h2>
 
@@ -65,7 +83,7 @@ title: Talks & Posters
 
     <li class="cv-item">
       <div class="cv-item-head">
-        <span class="cv-item-venue"><strong>MPI&ndash;UBC&ndash;UTokyo Centre for Quantum Materials Summer School 2025</strong>Vancouver, Canada</span>
+        <span class="cv-item-venue"><strong>MPI&ndash;UBC&ndash;UTokyo Centre for Quantum Materials Summer School 2025</strong> Vancouver, Canada</span>
         <span class="cv-item-date"><em>May 2025</em></span>
       </div>
       <div class="cv-item-sub">
@@ -75,7 +93,7 @@ title: Talks & Posters
 
     <li class="cv-item">
       <div class="cv-item-head">
-        <span class="cv-item-venue"><strong>AScI Summer Research Conclave 2024</strong></span>
+        <span class="cv-item-venue"><strong>AScI Summer Research Conclave 2024</strong> Aalto University, Finland</span>
         <span class="cv-item-date"><em>August 2024</em></span>
       </div>
       <div class="cv-item-sub">
