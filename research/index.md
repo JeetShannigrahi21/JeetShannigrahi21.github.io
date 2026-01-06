@@ -38,7 +38,7 @@ title: Research
     </div>
     <p class="meta">Department of Physics, University of Windsor, Canada · Supervisor: Dr. T. J. Hammond (ACME Group)</p>
     <ul>
-      <li>Description: Simulating light-matter interaction in 1-decannol for the possibility of laser filamentation through the counterbalancing of nonlinear optical response (Kerr effect) with thermal defocusing due to the liquid being heated up by the pulse propagating through.</li>
+      <li>Description: Simulating light-matter interaction in 1-decanol to investigate the possibility of laser filamentation through the counterbalancing of nonlinear optical response (Kerr effect) with thermal defocusing due to the liquid being heated up by the pulse propagating through.</li>
       <li>Role: I implemented the finite differences method to solve a modified heat diffusion equation with convective boundary constraints while propagating the beam numerically through Forward Maxwell’s equation. </li>
       <li>Outcomes: Contributed talk at GCURS 2023 (Rice); poster at UWillDiscover 2024; publication in Optics Express (Dec 2025). </li>
     </ul>
@@ -50,8 +50,8 @@ title: Research
       <span class="date">Sep 2022 - Mar 2024</span>
     </div>
     <p class="meta">Physics, Hindu College, University of Delhi, India · Supervisor: Prof. Vivek Verma</p>  <ul>
-      <li>Description: Investigated the signifance of the effect the temperature of the immersion fluid has on porosity measurements in the buoyancy method.  </li>
-      <li>Role: Evaluated different experimental approaches for improving porosimetry of metal oxide samples through a comparison of the results obtained through the buoyancy method, XRD and FESEM. </li>
+      <li>Description: Investigated the effect the temperature of the immersion fluid has on porosity measurements in the buoyancy method.  </li>
+      <li>Role: Evaluated different experimental approaches for improving porosimetry of metal oxide samples through a comparison of the results obtained through the buoyancy method, X-Ray Density and FESEM. </li>
       <li>Outcomes: Manuscript published (May 2025).</li>
     </ul>
   </article>
@@ -62,8 +62,8 @@ title: Research
       <span class="date">Sep 2022 - Mar 2024</span>
     </div>
     <p class="meta">Physics, Hindu College, University of Delhi, India · Supervisor: Prof. Pragati Ashdir</p>  <ul>
-      <li>Description: Computationally capturing the phonon spectrum in 1- and 2- dimensional lattices through the construction of an unique cell to capture the dynamics of each lattice type in direct space. </li>
-      <li>Role: Validating different choices of the unique cell by mapping the phonon spectrum produced with analytical results at the high symmetry points. Constructed highly efficient computational models to simulate the dynamics of such lattice sites
+      <li>Description: Computationally capturing the phonon spectrum in 1- and 2- dimensional lattices through the construction of an unique cell to capture the dynamics of each lattice type in real space. </li>
+      <li>Role: Validating different choices of the unique cell by mapping the phonon spectrum produced with analytical results at the high symmetry points. Constructed highly efficient computational models to simulate the dynamics of such cells containing upto 16 sites.
       </li> 
       <li>Outcomes: Manuscript published (April 2024).</li>
     </ul>
