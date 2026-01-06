@@ -8,7 +8,7 @@ title: Publications
   <ol class="items">
 <li>
   Nathan Drouillard, Jacob Stephen, Chathurangani Arachichige, Jeet Shannigrahi, and T. Hammond,
-  “Supercontinuum Generation in 1-decanol,” <em>Optics Express</em> (accepted for publication).
+  “Supercontinuum Generation in 1-decanol,” <em>Optics Express</em> (Accepted).
   <a href="https://doi.org/10.1364/OE.581427" target="_blank" rel="noopener">DOI</a>.
 </li>
 
