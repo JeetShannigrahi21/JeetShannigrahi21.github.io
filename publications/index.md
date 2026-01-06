@@ -13,12 +13,6 @@ title: Publications
 </li>
 
 <li>
-  Jeet Shannigrahi, Nathan Drouillard, and T. J. Hammond,
-  “Balancing Thermal Defocusing and Kerr Lensing for Spatial Solitons in Alkanols,”
-  in preparation (to be submitted to <em>Physical Review A</em>).
-</li>
-
-<li>
   Jeet Shannigrahi, Neelam Singh, and Vivek Verma,
   “A modification of the buoyancy method for characterizing and determining porosity in nanoporous magnesium ferrite samples,”
   <em>Physica Scripta</em> <strong>100</strong>, 065922 (2025).
