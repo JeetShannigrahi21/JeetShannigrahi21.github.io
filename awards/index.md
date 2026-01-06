@@ -7,7 +7,7 @@ title: Awards
   <h2>Scholarships & Awards</h2>
   <ul class="items">
     <li> C.D. Howe Graduate Fellowship, University of British Columbia, Canada (CA$16,000 one-time) - Exemplary academic performance at the graduate level (50 Awardees among  ~ 8000 Master's students). </li>
-    <li>CREATE Quantum Computing Program Scholarship 2024-2026 (CA$13,000 over two years) — Competitive training program on quantum computing and quantum information for graduate students.</li>
+    <li>NSERC CREATE Quantum Computing Program Scholarship 2024-2026 (CA$13,000 over two years) — Competitive training program on quantum computing and quantum information for graduate students.</li>
     <li>International Summer Research Program 2024, Aalto University (€6500) — Summer research assistant at the Department of Applied Physics. (one of 68 selected from 4,300 applicants).</li>
     <li>Charpak Summer Training Scholarship 2024, Embassy of France (€1400) — One of 30 Indian citizens selected for a research internship at a French institute (declined due to scheduling conflict).</li>
     <li>Mitacs Globalink Research Internship 2023 (CA$8100).</li>
