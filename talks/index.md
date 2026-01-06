@@ -3,6 +3,7 @@ layout: default
 title: Talks & Posters
 ---
 
+<style>
 .cv-item-head{
   display: flex;
   align-items: baseline;
@@ -10,8 +11,8 @@ title: Talks & Posters
 }
 
 .cv-item-venue{
-  flex: 1 1 auto;     /* take remaining space */
-  min-width: 0;       /* allows wrapping instead of pushing date */
+  flex: 1 1 auto;
+  min-width: 0;     /* allows wrapping instead of pushing date */
 }
 
 .cv-item-date{
@@ -20,6 +21,7 @@ title: Talks & Posters
   white-space: nowrap;
   text-align: right;
 }
+</style>
 
 <section id="talks" class="section">
   <h2>Selected Talks &amp; Posters</h2>
@@ -32,9 +34,9 @@ title: Talks & Posters
         <span class="cv-item-date"><em>June 2025</em></span>
       </div>
       <div class="cv-item-sub">
-        Talk title: Properties of Holstein polarons at finite temperature.  <a href="https://indico.global/event/13916/contributions/126379/" target="_blank" rel="noopener">(link)</a>
+        Talk title: Properties of Holstein polarons at finite temperature.
+        <a href="https://indico.global/event/13916/contributions/126379/" target="_blank" rel="noopener">(link)</a>
       </div>
-
     </li>
 
     <li class="cv-item">
@@ -43,7 +45,8 @@ title: Talks & Posters
         <span class="cv-item-date"><em>March 2025</em></span>
       </div>
       <div class="cv-item-sub">
-        Talk title: Investigating Radiation Damage at a solid-liquid interface due to neutron flux using MD. <a href="https://schedule.aps.org/smt/2025/events/VIR-K03/3" target="_blank" rel="noopener">(link)</a>
+        Talk title: Investigating Radiation Damage at a solid-liquid interface due to neutron flux using MD.
+        <a href="https://schedule.aps.org/smt/2025/events/VIR-K03/3" target="_blank" rel="noopener">(link)</a>
       </div>
     </li>
 
@@ -53,7 +56,8 @@ title: Talks & Posters
         <span class="cv-item-date"><em>March 2024</em></span>
       </div>
       <div class="cv-item-sub">
-        Talk title: Exploration of porosity measurement techniques of a porous metal oxide sample. <a href="https://meetings.aps.org/Meeting/MAR24/Session/MM02.3" target="_blank" rel="noopener">(link)</a>
+        Talk title: Exploration of porosity measurement techniques of a porous metal oxide sample.
+        <a href="https://meetings.aps.org/Meeting/MAR24/Session/MM02.3" target="_blank" rel="noopener">(link)</a>
       </div>
     </li>
 
@@ -63,10 +67,10 @@ title: Talks & Posters
         <span class="cv-item-date"><em>October 2023</em></span>
       </div>
       <div class="cv-item-sub">
-        Talk title: Investigating the Thermal Lensing Effect in Liquids through a Computational Perspective. <a href="https://drive.google.com/file/d/14WPBSMOaSp6YlxA80AN2Wpfq-5_g2yIh/view" target="_blank" rel="noopener">(Slides)</a>
+        Talk title: Investigating the Thermal Lensing Effect in Liquids through a Computational Perspective.
+        <a href="https://drive.google.com/file/d/14WPBSMOaSp6YlxA80AN2Wpfq-5_g2yIh/view" target="_blank" rel="noopener">(Slides)</a>
       </div>
     </li>
-
   </ul>
 
   <h3>Posters</h3>
@@ -83,7 +87,7 @@ title: Talks & Posters
 
     <li class="cv-item">
       <div class="cv-item-head">
-        <span class="cv-item-venue"><strong>MPI&ndash;UBC&ndash;UTokyo Centre for Quantum Materials Summer School 2025</strong> Vancouver, Canada</span>
+        <span class="cv-item-venue"><strong>MPI&ndash;UBC&ndash;UTokyo Centre for Quantum Materials Summer School 2025</strong>, Vancouver, Canada</span>
         <span class="cv-item-date"><em>May 2025</em></span>
       </div>
       <div class="cv-item-sub">
@@ -93,14 +97,12 @@ title: Talks & Posters
 
     <li class="cv-item">
       <div class="cv-item-head">
-        <span class="cv-item-venue"><strong>AScI Summer Research Conclave 2024</strong> Aalto University, Finland</span>
+        <span class="cv-item-venue"><strong>AScI Summer Research Conclave 2024</strong>, Aalto University, Finland</span>
         <span class="cv-item-date"><em>August 2024</em></span>
       </div>
       <div class="cv-item-sub">
         Poster title: Radiation damage at a solid&ndash;liquid interface using Molecular Dynamics.
       </div>
     </li>
-
-  
   </ul>
 </section>
