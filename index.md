@@ -8,7 +8,7 @@ permalink: /
   <article class="bio">
     <h2>About Me</h2>
     <p>
-      I am a second year Master's student (researc-based) in Physics at the University of British Columbia, Canada. My research interests lie in understanding strongly correlated many-body systems (where for example a charge carrier couples to its environment), and analysing the consequent emergent quasiparticles and collective excitations exhibited by such systems (polarons, magnons, polaritons). I am interested in comparing and adopting different analytical and numerical methodologies for tackling such systems, particularly working around certain constraints finite size effects and steep scaling issues in higher dimensions. Beyond my familiarity with traditional condensed matter techniques, I am broadly interested in the possible application of quantum algorithms (such as Quantum Phase Estimation) to such problems.
+      I am a second year Master's student (research-based) in Physics at the University of British Columbia, Canada. My research interests lie in understanding strongly correlated many-body systems (where for example a charge carrier couples to its environment), and analysing the consequent emergent quasiparticles and collective excitations exhibited by such systems (polarons, magnons, polaritons). I am interested in comparing and adopting different analytical and numerical methodologies for tackling such systems, particularly working around certain constraints finite size effects and steep scaling issues in higher dimensions. Beyond my familiarity with traditional condensed matter techniques, I am broadly interested in the possible application of quantum algorithms (such as Quantum Phase Estimation) to such problems.
     </p>
 <p>
       At UBC, I am working with  <a href="https://phas.ubc.ca/~berciu/" target="_blank" rel="noopener noreferrer">
@@ -27,7 +27,7 @@ permalink: /
       as the salutatorian of a cohort of 176 students.
     </p>
     <p>
-      During my master's and bachelor's, I have been a visiting research student in several different groups, seeking out varied research problems and gaining exposure to different working environments. The research problems I have been a part of, stretch from using molecular dynamics to better understand radiation damage in materials to light-matter interaction in a laser spectroscopy laboratory. These have been spread across three different continents: as a
+      During my Master's and Cachelor's studies, I have been a visiting research student in several different groups, seeking out varied research problems and gaining exposure to different working environments. The research problems I have been a part of stretch from: using molecular dynamics to better understand radiation damage in materials; to numerically simulating light-matter interaction in a femtosecond laser spectroscopy group. These have been spread across three different continents: as a
   <a href="https://nius.hbcse.tifr.res.in/" target="_blank" rel="noopener noreferrer">
     NIUS scholar 
   </a>
@@ -42,8 +42,7 @@ permalink: /
     visiting research assistant
   </a>
   at Aalto University, Finland in 2024; and as an visiting assistant in research at
-    Yale University, USA
-  since late 2025.
+    Yale University, USA.
     </p>
     <p>
       Beyond research and academics, I love reading graphic novels, engaging in friendly (but contentious) discussions on international cinema, playing a fiercely competitive game of Monopoly or Catan, biking around Metro Vancouver and trying out new activities with my partner.
