@@ -35,7 +35,9 @@ title: Education
             </div>
             <div class="edu-detail">
               <span class="edu-label">Undergraduate Dissertation:</span>
-              An exploration of lattice dynamics for 1D and 2D lattice systems in real space |
+              An exploration of lattice dynamics for 1D and 2D lattice systems in real space  <a href="https://www.worldscientific.com/doi/abs/10.1142/S2661339524500070" target="_blank" rel="noopener noreferrer">
+       (publication link)
+      </a> |
               Supervised by Prof. Pragati Ashdhir
             </div>
           </div>
