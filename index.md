@@ -27,7 +27,7 @@ permalink: /
       as the salutatorian of a cohort of 176 students.
     </p>
     <p>
-      During my Master's and Cachelor's studies, I have been a visiting research student in several different groups, seeking out varied research problems and gaining exposure to different working environments. The research problems I have been a part of stretch from: using molecular dynamics to better understand radiation damage in materials; to numerically simulating light-matter interaction in a femtosecond laser spectroscopy group. These have been spread across three different continents: as a
+      During my Master's and Bachelor's studies, I have been a visiting research student in several different groups, seeking out varied research problems and gaining exposure to different working environments. The research problems I have been a part of stretch from: using molecular dynamics to better understand radiation damage in materials; to numerically simulating light-matter interaction in a femtosecond laser spectroscopy group. These have been spread across three different continents: as a
   <a href="https://nius.hbcse.tifr.res.in/" target="_blank" rel="noopener noreferrer">
     NIUS scholar 
   </a>
